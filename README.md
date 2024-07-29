@@ -10,7 +10,7 @@ pip install pyinstaller
 ```
 
 # To compile the code
-Open the folder containing the 'main.py' file.
+Open the folder containing the 'main.py' file and open CMD.
 ```python
 pyinstaller --onefile --noconsole main.py
 ```
